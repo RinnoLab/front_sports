@@ -1,0 +1,51 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+.light-blue.banco-de-chile {
+  background-color: #004C94 !important;
+}
+.nav-extended {
+    display: table;
+}
+nav.nav-extended .principal {
+  height: 161px;
+  vertical-align: middle;
+  display: table-cell;
+}
+.nav-principal{
+    height: 161px;
+}
+html {
+  font-family: "Roboto", sans serif;
+}
+.tabs .tab a{
+    color: white;
+}
+.tabs .tab a:hover, tabs{
+    color: white;
+}
+.tabs .tab a:hover, .tabs .tab a.active{
+    color: white;
+}
+.tabs .tab.disabled a, .tabs .tab.disabled a:hover{
+    color: white;
+        color: gray;
+}
+.tabs .indicator {
+    background-color: white;
+}
+.logo-team {
+    width: 50px;
+    height: 50px;
+}
