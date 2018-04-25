@@ -6,6 +6,8 @@
  * Made By MaterializeCSS.com
  */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 .icon-block {
   padding: 0 15px;
 }
@@ -25,6 +27,9 @@ nav.nav-extended .principal {
 }
 .nav-principal{
     height: 161px;
+}
+html, body {
+  font-family: 'Roboto', sans-serif;
 }
 .tabs .tab a{
     color: white;
