@@ -26,9 +26,6 @@ nav.nav-extended .principal {
 .nav-principal{
     height: 161px;
 }
-html {
-  font-family: Roboto, open sans !important;
-}
 .tabs .tab a{
     color: white;
 }
